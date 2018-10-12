@@ -1,0 +1,7 @@
+nav ul{list-style-type:none;}
+ p{color:black; background:none;}
+ h1{color:maroon; background:gold;}
+ a:link{color: purle;}
+ a:visited{color: purle;}
+ a:hover{background: pink;}
+ iframe{width: 900px; height: 220px; border: none;}
